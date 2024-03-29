@@ -15,9 +15,10 @@
 - DeFi
 - Solidity
 - Hardhat
+- Foundry
 - JavaScript
-- ReactJS
-- Web3
+- Java
+- Spring Boot
 - Mocha
 - Chai
 - Problem Solving
